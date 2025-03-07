@@ -1,4 +1,4 @@
-## Graph / List calendarView
+## Graph / Samples
 
 <!-- Disclaimer -->
 <div style="border: 1px solid #ccc; padding: 10px; margin: 10px 0; background-color: #f9f9f9;">
